@@ -1,0 +1,13 @@
+streamlit
+torch
+pandas
+numpy
+matplotlib
+seaborn
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+pypdf
+langchain-experimental
+tabulate
